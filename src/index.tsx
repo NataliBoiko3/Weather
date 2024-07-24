@@ -11,6 +11,9 @@ import WeatherApp from './component/weatherApp/WeatherApp';
 
 
 
+
+
+
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
